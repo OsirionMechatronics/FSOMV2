@@ -1,7 +1,10 @@
 # FSOMV2
 
-Ver Video en Youtube: https://youtu.be/W7R86NtOgDU
-Apoyanos dandonos tu aporte por Patreon y subir más contenido: https://www.patreon.com/osirionmechatronics 
+Ver Video en Youtube:
+https://youtu.be/W7R86NtOgDU
+
+Apoyanos dandonos tu aporte por Patreon y subir más contenido: 
+https://www.patreon.com/osirionmechatronics 
 
 FSOMV2 es un protector facial sanitizable y reutilizable, fabricado en acrílico transparente con tecnología láser. Posee una pieza frontal removible diseñada con goma eva para una mayor comodidad en el usuario cuando su uso es prolongado. (Atención al público, Personal Médico, Industria, etc).
 
