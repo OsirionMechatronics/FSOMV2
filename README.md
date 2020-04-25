@@ -1,7 +1,9 @@
 # FSOMV2: Protector Facial OM V2 Emergencia COVID19 
 
-Ver Video en Youtube:
+
+Ver Video en Youtube: 
 https://youtu.be/W7R86NtOgDU
+
 
 Se pone a disposisión a toda la comunidad maker que cuenten con maquinas CNC Láser los archivos .dxf o .svg para la fabricación y posterior donación a los lugares en donde exista un mayor foco de contagios por COVID19, esto con el fin de que se envíe a los más necesitados y disminuir la propagación del virus lo más rápido posible.
 
@@ -25,7 +27,9 @@ NoComercial — Usted no puede hacer uso del material con propósitos comerciale
 SinDerivadas — Si remezcla, transforma o crea a partir del material, no podrá distribuir el material modificado.
 
 Instagram: https://www.instagram.com/osirionmechatronics
+
 Facebook: https://www.facebook.com/osirionmechatronics
+
 Página Web: https://www.osirionmec.cl/
 
 Para seguir aportando contenido a la comunidad maker apoyanos dandonos tu aporte por Patreon: 
