@@ -24,10 +24,9 @@ NoComercial — Usted no puede hacer uso del material con propósitos comerciale
 
 SinDerivadas — Si remezcla, transforma o crea a partir del material, no podrá distribuir el material modificado.
 
-RRSS:
-https://www.instagram.com/osirionmechatronics
-https://www.facebook.com/osirionmechatronics
-https://www.osirionmec.cl/
+Instagram: https://www.instagram.com/osirionmechatronics
+Facebook: https://www.facebook.com/osirionmechatronics
+Página Web: https://www.osirionmec.cl/
 
 Para seguir aportando contenido a la comunidad maker apoyanos dandonos tu aporte por Patreon: 
 https://www.patreon.com/osirionmechatronics 
