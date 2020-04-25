@@ -15,11 +15,11 @@ Los archivos para cortar en láser dependen del modelo de la máquina y sus resp
 *FSOMV2 es un producto fabricado por Osirion Mechatronics SpA, se prohíbe el uso de ventas no autorizadas.
 Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0)
 
-Atribución — Usted debe dar crédito de manera adecuada, brindar un enlace a la licencia, e indicar si se han realizado cambios. Puede hacerlo en cualquier forma razonable, pero no de forma tal que sugiera que usted o su uso tienen el apoyo de la licenciante.
+  Atribución — Usted debe dar crédito de manera adecuada, brindar un enlace a la licencia, e indicar si se han realizado cambios. Puede hacerlo en cualquier forma razonable, pero no de forma tal que sugiera que usted o su uso tienen el apoyo de la licenciante.
 
-%NoComercial — Usted no puede hacer uso del material con propósitos comerciales.
+  NoComercial — Usted no puede hacer uso del material con propósitos comerciales.
 
-%SinDerivadas — Si remezcla, transforma o crea a partir del material, no podrá distribuir el material modificado.
+  SinDerivadas — Si remezcla, transforma o crea a partir del material, no podrá distribuir el material modificado.
 
 Instagram: https://www.instagram.com/osirionmechatronics
 
