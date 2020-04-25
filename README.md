@@ -23,3 +23,11 @@ Atribución — Usted debe dar crédito de manera adecuada, brindar un enlace a 
 NoComercial — Usted no puede hacer uso del material con propósitos comerciales.
 
 SinDerivadas — Si remezcla, transforma o crea a partir del material, no podrá distribuir el material modificado.
+
+RRSS:
+https://www.instagram.com/osirionmechatronics
+https://www.facebook.com/osirionmechatronics
+https://www.osirionmec.cl/
+
+
+
