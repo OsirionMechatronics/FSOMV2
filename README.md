@@ -12,6 +12,9 @@ Nuestro producto es complementario a la mascarilla y gafas que se deben usar par
 
 Los archivos para cortar en láser dependen del modelo de la máquina y sus respectivas dimensiones y configuraciones. La máquina utilizada con éstos archivos tiene una mesa de 60x40 y Laser CO2 80W.
 
+
+
+
 *FSOMV2 es un producto fabricado por Osirion Mechatronics SpA, se prohíbe el uso de ventas no autorizadas.
 Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0)
 
@@ -20,6 +23,9 @@ Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0)
   NoComercial — Usted no puede hacer uso del material con propósitos comerciales.
 
   SinDerivadas — Si remezcla, transforma o crea a partir del material, no podrá distribuir el material modificado.
+
+
+
 
 Instagram: https://www.instagram.com/osirionmechatronics
 
